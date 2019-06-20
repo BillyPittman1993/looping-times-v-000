@@ -1,2 +1,2 @@
 loop do 
-  puts ""
+  puts "Wingardium Leviosa"
